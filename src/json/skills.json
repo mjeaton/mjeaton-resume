@@ -1,0 +1,52 @@
+{
+  "skills": [
+    {
+      "name": ".NET",
+      "link": "https://dotnet.microsoft.com/",
+      "resume": true
+    },
+    {
+      "name": "JavaScript",
+      "icon": "js-square",
+      "link": "https://eloquentjavascript.net/",
+      "resume": true
+    },
+    {
+      "name": "React.js",
+      "icon": "react",
+      "link": "https://reactjs.org/",
+      "resume": true
+    },
+    {
+      "name": "HTML",
+      "icon": "html5",
+      "link": "https://www.w3schools.com/html/default.asp",
+      "resume": true
+    },
+    {
+      "name": "CSS",
+      "icon": "css3-alt",
+      "link": "https://www.w3schools.com/css/default.asp",
+      "resume": true
+    },
+    { "name": "nodejs", "icon": "node-js", "link": "https://nodejs.org/en/" },
+    { "name": "npm", "icon": "npm", "link": "https://www.npmjs.com/" },
+    {
+      "name": "Docker",
+      "icon": "docker",
+      "link": "https://www.docker.com/",
+      "resume": true
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "link": "https://github.com/mjeaton",
+      "resume": true
+    },
+    {
+      "name": "Scrum & Kanban",
+      "link": "https://www.atlassian.com/agile/kanban",
+      "resume": true
+    }
+  ]
+}

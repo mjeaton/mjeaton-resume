@@ -1,0 +1,24 @@
+{
+  "socialLinks": [
+    {
+      "icon": "fas fa-envelope",
+      "name": "Email",
+      "url": "mailto:mjeaton@gmail.com"
+    },
+    {
+      "icon": "fab fa-github",
+      "name": "Github",
+      "url": "https://github.com/mjeaton"
+    },
+    {
+      "icon": "fab fa-linkedin-in",
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/mjeaton/"
+    },
+    {
+      "icon": "fab fa-twitter",
+      "name": "Twitter",
+      "url": "https://twitter.com/mjeaton"
+    }
+  ]
+}

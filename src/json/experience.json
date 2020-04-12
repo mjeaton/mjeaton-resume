@@ -1,0 +1,67 @@
+{
+  "experience": [
+    {
+      "title": "Senior Software Development Engineer",
+      "subtitle": "SentryOne - Remote",
+      "content": "SentryOne solutions are essential to building, testing, documenting, and monitoring databases and applications on SQL Server, Azure SQL databasesa, and the Microsoft Data Platform. As a remote Senior Software Engineer, I was responsible for working with my team on a variety of products including Plan Explorer and the SentryOne Client.",
+      "details": [
+        "Contributed to the development of the Plan Explorer extension for Microsoft's Azure Data Studio (https://sqlperformance.com/2019/08/sentryone/plan-explorer-extension-azure-data-studio).",
+        "Contributed to the development of the Enterprise Platform Installer (https://docs.sentryone.com/help/sentryone-installer)."
+      ],
+      "dates": "MAR 2019 - PRESENT"
+    },
+    {
+      "title": "Director of Engineering",
+      "subtitle": "Matched Pattern - Remote (acquired by ScriptDrop in NOV 2019)",
+      "content": "",
+      "details": [
+        "Sub-contractor for Dashpoint Software. Worked on a project for a financial services company, helping move their legacy FoxPro/VB6 software to WPF."
+      ],
+      "dates": "SEP 2018 - NOV 2019"
+    },
+    {
+      "title": "Team Leader, Technology",
+      "subtitle": "Quicken Loans - Remote",
+      "content": "Remotely led one of four teams within the Engineering Experience organization consisting of between 8 and 10 senior engineers focusing on services and frameworks benefiting Quicken Loans and its family of companies. Responsible for the development and growth of team members.",
+      "dates": "JUN 2016 - SEP 2018",
+      "details": [
+        "Helped drive adoption of AWS and Docker Enterprise as part of our Enterprise Services team.",
+        "Worked closely with CMDB team to catalog the internal applications and services with QL and the family of companies."
+      ]
+    },
+    {
+      "title": "Senior Software Engineer",
+      "subtitle": "Quicken Loans - Remote",
+      "content": "As a remote Senior Software Engineer on one of QL's Core teams, I was responsible for working with my team and internal clients on frameworks and services used by other engineers throughout Quicken Loans and the family of companies.",
+      "details": [
+        "Contributed to the development of internal .NET-focused framework; Rock Framework / RockLib",
+        "Assisted team in open sourcing Rock Framework / RockLib, an easy-to-use API that helps developers quickly implement high-value, common features like logging, DI, AOP, and metrics. It also includes testing classes, helper classes, and time-saving extension methods.",
+        "Responsible for the design, development, deployment and on-going maintenance of a web-based application that allows engineers, business analysts and other stakeholders to browse and interact with Universal Messaging message queues.",
+        "Responsible for the design, development, deployment and on-going maintenance of a Windows service that allows engineers and business analysts to manage jobs that interact with Universal Messaging message queues. This mission critical infrastructure service has successfully scaled out to handle millions of messages per day."
+      ],
+      "dates": "NOV 2014 - JUN 2016"
+    },
+    {
+      "title": "Instructor",
+      "subtitle": "ExperienceIT / Grand Circus",
+      "content":"Worked with several Microsoft MVPs led by Bill Wagner in introductory .NET training for approximately 30 'Developer Bootcamp' students. The students were career-changers who had little-to-no IT experience.",
+      "details":[
+        "Taught students the basics of .NET.",
+        "Worked with students on interviewing practice.",
+        "With few exceptions, all students graduated and have been hired as developers and QA."
+      ],
+      "dates": "JUL 2014 - AUG 2014"
+    },
+    {
+      "title": "Owner / Consultant",
+      "subtitle": "Validus Solutions, LLC.",
+      "content":"Custom software development, training, and consulting. Responsible for all apsects of running a small business. Worked with clients all over the United States on a variety of projects. Highlights follow:",
+      "details":[
+        "Designed, developed, and maintained an application over several years (2008-2018) used to manage unemployment compensation claims for the Michigan Hospital Association, as well as the Illinois Health Associate based in Chicago. This application helped both organizations cut unemployment fraud by 20% per year.",
+        "Developed code to write schedule data in binary to electronic door locks for Ingersoll Rand's Nexia product line.",
+        "Led the development effort on a tablet-based Electronic Medical Records application."
+      ],
+      "dates": "AUG 2001 - CURRENT"
+    }
+  ]
+}
